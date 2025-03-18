@@ -2,7 +2,7 @@
 title: " Lost In Translation? The Effect of Cultural Values on Mergers Around the World"
 collection: publications
 category: Published_Papers
-permalink: /publication/lost-in-translation
+permalink: /publication/2015b-lost-in-translation
 date: 2015-07-01
 venue: 'Journal of Financial Economics'
 paperurl: '/files/pdf/research/Lost_in_Translation.pdf'

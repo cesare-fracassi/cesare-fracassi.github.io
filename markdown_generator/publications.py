@@ -79,6 +79,9 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
+    if len(str(item.abstract)) > 5:
+        md += "\nabstract: '" + html_escape(item.abstract) + "'"
+    
     md += "\ndate: " + str(item.pub_date) 
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"

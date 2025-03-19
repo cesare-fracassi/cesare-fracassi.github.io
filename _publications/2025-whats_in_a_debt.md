@@ -3,7 +3,7 @@ title: "What is in a Debt? Rating Agency Methodologies and Firms Financing and I
 collection: publications
 category: Working_Papers
 permalink: /publication/whats-in-a-debt
-date: 2025-03-18
+date: 2025-03-19
 venue: 'Reject and Resubmit at the Review of Corporate Financial Studies'
 paperurl: '/files/pdf/Research/Fracassi_Weitzner_2025_paper.pdf'
 paperurl_appendix: '/files/pdf/Research/Fracassi_Weitzner_2025_online_appendix.pdf'

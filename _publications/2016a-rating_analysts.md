@@ -5,8 +5,8 @@ category: Published_Papers
 permalink: /publication/rating-analysts
 date: 2016-02-16
 venue: 'Journal of Financial Economics'
-paperurl: '/files/pdf/research/Rating_Analysts.pdf'
-paperurl_appendix: '/files/pdf/research/Rating_Analysts_Online_Appendix.pdf'
+paperurl: '/files/pdf/Research/Rating_Analysts.pdf'
+paperurl_appendix: '/files/pdf/Research/Rating_Analysts_Online_Appendix.pdf'
 link: 'https://doi.org/10.1016/j.jfineco.2016.02.006'
 github: 'https://github.com/cesare-fracassi/rating_analysts'
 citation: 'Fracassi, C., S. Petry, and G. Tate. 2016. &quot;Does rating analyst subjectivity affect corporate debt pricing?&quot; <i>Journal of Financial Economics</i> 120 (3), 514-538.'

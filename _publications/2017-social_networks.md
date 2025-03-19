@@ -5,8 +5,8 @@ category: Published_Papers
 permalink: /publication/social-networks
 date: 2016-05-17
 venue: 'Management Science'
-paperurl: '/files/pdf/research/Social_Networks.pdf'
-paperurl_appendix: '/files/pdf/research/Social_Networks_Online_Appendix.pdf'
+paperurl: '/files/pdf/Research/Social_Networks.pdf'
+paperurl_appendix: '/files/pdf/Research/Social_Networks_Online_Appendix.pdf'
 link: 'https://doi.org/10.1287/mnsc.2016.2433'
 github: 'https://github.com/cesare-fracassi/social_networks'
 citation: 'Fracassi, C. 2017. &quot;Corporate Finance Policies and Social Networks.&quot; <i>Management Science</i> 63 (8), 2420-2438.'

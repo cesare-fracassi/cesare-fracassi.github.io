@@ -5,8 +5,8 @@ category: Published_Papers
 permalink: /publication/barbarians-store
 date: 2021-06-18
 venue: 'Journal of Finance'
-paperurl: '/files/pdf/research/Barbarians_at_the_Store.pdf'
-paperurl_appendix: '/files/pdf/research/Barbarians_at_the_Store_Online_Appendix.pdf'
+paperurl: '/files/pdf/Research/Barbarians_at_the_Store.pdf'
+paperurl_appendix: '/files/pdf/Research/Barbarians_at_the_Store_Online_Appendix.pdf'
 link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2911387'
 github: 'https://github.com/cesare-fracassi/barbarians_store'
 citation: 'Fracassi, C., A. Previtero, and A. Sheen. 2022. &quot;Barbarians at the Store? Private Equity, Products, and Consumers.&quot; <i>Journal of Finance</i> 77(3), 1439-1488.'

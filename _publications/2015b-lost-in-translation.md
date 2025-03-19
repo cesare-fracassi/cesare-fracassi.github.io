@@ -2,11 +2,11 @@
 title: " Lost In Translation? The Effect of Cultural Values on Mergers Around the World"
 collection: publications
 category: Published_Papers
-permalink: /publication/2015b-lost-in-translation
+permalink: /publication/lost-in-translation
 date: 2015-07-01
 venue: 'Journal of Financial Economics'
-paperurl: '/files/pdf/Research/Lost_in_Translation.pdf'
-paperurl_appendix: '/files/pdf/Research/Lost_in_Translation_Online_Appendix.pdf'
+paperurl: '/files/pdf/research/Lost_in_Translation.pdf'
+paperurl_appendix: '/files/pdf/research/Lost_in_Translation_Online_Appendix.pdf'
 award: '- Jensen Prize for Corporate Finance and Organizations (second prize).'
 award2: '- CEG Research Prize in Corporate Finance at the 2011 Finance Down Under Conference.'
 link: 'https://doi.org/10.1016/j.jfineco.2012.08.006'

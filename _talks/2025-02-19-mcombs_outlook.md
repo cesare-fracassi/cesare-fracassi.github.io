@@ -4,7 +4,7 @@ collection: talks
 type: "Panelist"
 permalink: /talks/mccombs_outlook
 venue: "McCombs School of Business"
-date: 2025-03-19
+date: 2025-02-19
 location: "Austin, TX, USA"
 ---
 

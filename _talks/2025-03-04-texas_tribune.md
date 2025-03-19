@@ -1,7 +1,7 @@
 ---
-title: "Panelist at Tech and the Texas Lege: Blockchain and the future economy"
+title: "Tech and the Texas Lege: Blockchain and the future economy"
 collection: talks
-type: "Talk"
+type: "Panelist"
 permalink: /talks/texas_tribune
 venue: "Texas Tribune"
 date: 2025-03-04

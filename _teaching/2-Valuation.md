@@ -1,8 +1,10 @@
 ---
 title: "Corporate Valuation"
 collection: teaching
+type: "Undergraduate course"
 permalink: /teaching/valuation
 venue: "UT-Austin"
+date: 2025-01-01
 ---
 
 This course covers business valuation and equity valuation.  The goal of the course is to provide students with a deep understanding of the core corporate finance concepts, and with practical tools and methods to value a broad range of assets.  While the course is designed first and foremost to be very practical, the tools and methods covered in this course are presented in the framework of generally accepted financial theory.

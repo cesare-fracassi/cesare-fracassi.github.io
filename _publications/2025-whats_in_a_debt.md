@@ -1,5 +1,5 @@
 ---
-title: "What's in a Debt? Rating Agency Methodologies and Firms Financing and Investment Decisions."
+title: "What is in a Debt? Rating Agency Methodologies and Firms Financing and Investment Decisions."
 collection: publications
 category: Working_Papers
 permalink: /publication/whats-in-a-debt

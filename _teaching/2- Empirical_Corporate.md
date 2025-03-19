@@ -1,7 +1,7 @@
 ---
 title: "Empirical Corporate Finance for PhDs"
 collection: teaching
-type: "Undergraduate course"
+type: "PhD-Level course"
 permalink: /teaching/empirical_corporate
 venue: "UT-Austin"
 date: 2025-01-01

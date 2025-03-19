@@ -1,7 +1,7 @@
 ---
 title: "Corporate Valuation"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/valuation
 venue: "UT-Austin"
 date: 2025-01-01

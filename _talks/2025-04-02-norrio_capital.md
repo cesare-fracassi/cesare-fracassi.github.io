@@ -1,5 +1,5 @@
 ---
-title: "The Future of Crypto and Blockchai”"
+title: "The Future of Crypto and Blockchain"
 collection: talks
 type: "Panelist"
 permalink: /talks/norrio_capital

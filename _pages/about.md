@@ -17,6 +17,5 @@ I earned my MBA and PhD in Finance at [UCLA-Anderson](https://www.anderson.ucla.
 <ul>
   <li><b>March 2026</b> — New working paper: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6427898">"Automated Market Making with Continuity: Liquidity, Price Discovery, and Adverse Selection"</a> (with T. George and M. Khoja). We develop a model of Constant-Product Automated Market Makers (CPAMMs) showing that equilibrium prices are invariant to liquidity supply, and derive a closed-form measure of adverse selection costs. We validate the theory using Uniswap V2 data.</li>
   <li><b>December 2025</b> — <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.70011">"Adverse Selection in Corporate Loan Markets"</a> (with M. Beyhaghi and G. Weitzner) is published in the <i>Journal of Finance</i>.</li>
-</ul>
 <li><b>September 2025</b>— New working paper: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5401402">"No Country for Dirty Money? The Economic Footprint of Anti-Money Laundering Standards."</a> (with E. Lee and T. Roukny)  We find that as countries go through an AML examination by FATF, cross-border trade goes down, FDI increases, ML detection goes up, and there is no significant impact on crime.</li>
 </ul>

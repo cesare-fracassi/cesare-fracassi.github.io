@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:papers.ssrn.com)",
+      "WebFetch(domain:onlinelibrary.wiley.com)"
+    ]
+  }
+}

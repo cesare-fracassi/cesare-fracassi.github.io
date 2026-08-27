@@ -77,8 +77,6 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  Other_Publications:
-    title: 'Other Publications'
   Published_Papers:
     title: 'Published Papers'    
   Working_Papers:
